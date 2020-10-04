@@ -1,2 +1,2 @@
 # e-commerce-e2e
-e-commerce test based on webdriveio
+e-commerce E2E test based on webdriverio
